@@ -11,3 +11,8 @@ Build a Single-page CV purely using HTML5
 + Bold Tag: bold the text
 + Break Line Tag: to proive space or add new line
 + Pre Tag: displays text as it is(without ignoring spaces and next line)
+
+## Project URL
+```
+deepanshi1820.github.io/Single-Page-CV/
+```
